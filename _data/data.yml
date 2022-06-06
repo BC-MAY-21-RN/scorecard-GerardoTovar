@@ -37,12 +37,27 @@ sidebar:
     - item: Communication
       link: # dejar en blanco
 
-    - item: Team Work
+    - item: Teamwork and collaboration
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Management (people, time, and project)
       link: # dejar en blanco
-
+      
+    - item: Self Taught
+      link: # dejar en blanco
+      
+    - item: Open-mindedness and adaptability
+      link: # dejar en blanco
+      
+    - item: Patience, Empathy
+      link: # dejar en blanco
+      
+    - item: Critical thinking, creativity, and problem-solving
+      link: # dejar en blanco
+      
+    - item: Accountability, humility, and humbleness
+      link: # dejar en blanco
+      
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
