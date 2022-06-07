@@ -143,23 +143,20 @@ skills:
     - name: Angular
       level: 70%
 
-    - name: Node JS
-      level: 40%
-
     - name: Firebase
-      level: 80%
+      level: 85%
 
     - name: TypeScript
-      level: 80%
+      level: 85%
 
     - name: JavaScript
-      level: 80%
+      level: 85%
 
     - name: Ionic Framework
       level: 85%
 
     - name: Socket.io
-      level: 20%
+      level: 30%
 
     - name: Git
       level: 55%
@@ -168,7 +165,13 @@ skills:
       level: 90%
       
     - name: CSS
-      level: 70%
+      level: 75%
+
+    - name: SQL
+      level: 50%
+      
+    - name: Node JS
+      level: 50%
 
 # NO MODIFICAR
 footer: >
