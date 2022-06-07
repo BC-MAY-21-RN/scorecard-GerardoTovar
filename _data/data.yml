@@ -82,7 +82,7 @@ educationcomplete:
         - React Native
         - Redux
 
-  - degree: Ingeniero En Tecnologias De La Informacion Y Comunicacion
+  - degree: Information and Communication Technology (ICT Engineering)
     university: Instituto Tecnológico De Tepic
     time: 2014 - 2019
     details: |
@@ -102,7 +102,7 @@ educationcomplete:
 experiences:
   - role: Full Stack Lead Developer
     time: 2018 - 2021
-    company: Centro de Investigación y Desarrollo de Tecnologías de Información
+    company: ITTepic CIDETI (Information Technology Research and Development Center)
     details: |
       I was the development leader in two applications, my job was to talk with the client 
       about their needs and requirements in the application and then develop it. 
