@@ -126,25 +126,10 @@ projects:
     title: Projects
     
     assignments:
-      - title: Velocity
+      - title: Talent Hackathon
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "I designed with my team a web application to track the garbage trucks in the city, in order 
+        to have control of the trucks and know if they are doing their job correctly."
         
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
