@@ -62,7 +62,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am an IT Engineer Full-Stack Developer looking for remote employment. 
+    I am an ITC Engineer Full-Stack Developer looking for remote employment. 
     I have more than 4 years of experience in the development of web and mobile applications. 
     And participated in the entire life cycle of software development. 
     I have the soft skills to work alone or in a team. 
@@ -114,15 +114,12 @@ experiences:
         - It is an application like uber in which you can request a tow truck in case of an accident with your vehicle. 
         just like uber you can see the driver and his route etc.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Full Stack Developer
+    time: 2018 May - 2018 Dic
+    company: The Coca-Cola Company
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      My job at the company was to quickly fix bugs or add new features.
+      The application assigned to me was a desktop and mobile app, it managed all the internal inventory of Coca-Cola
       
 # Registra aquí los proyectos en los que has participado
 projects:
