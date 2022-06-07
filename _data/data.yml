@@ -65,7 +65,7 @@ career-profile:
     I am an ITC Engineer Full-Stack Developer looking for remote employment. 
     I have more than 4 years of experience in the development of web and mobile applications. 
     And participated in the entire life cycle of software development. 
-    I have the soft skills to work alone or in a team. <br>
+    I have the soft skills to work alone or in a team. \n
     I spend all day at home exercising and studying online courses. 
     I have a passion for technology and video games. 
     I think that the future is in programming and in video games. 
@@ -81,6 +81,8 @@ educationcomplete:
 
         - React Native
         - Redux
+        - Jest
+        - ESLint and Prettier
 
   - degree: Information and Communication Technology (ICT Engineering)
     university: Technological Institute of Tepic
@@ -95,7 +97,8 @@ educationcomplete:
         - JavaScript
         - Ionic Framework
         - Socket.io
-        - Git
+        - Git and GitHub
+        - MongoDB
         - Amon other
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
@@ -146,14 +149,17 @@ skills:
     - name: Firebase
       level: 85%
 
-    - name: JavaScript and TypeScript
+    - name: JavaScript
       level: 85%
-
+      
+    - name: TypeScript
+      level: 85%
+      
     - name: Ionic Framework
       level: 85%
 
     - name: Git and GitHub
-      level: 55%
+      level: 60%
 
     - name: HTML
       level: 90%
@@ -161,9 +167,12 @@ skills:
     - name: CSS and Sass
       level: 75%
 
-    - name: SQL and MongoDB
+    - name: SQL
       level: 50%
-
+      
+    - name: MongoDB
+      level: 50%
+      
     - name: Node JS
       level: 50%
 
