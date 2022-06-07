@@ -66,35 +66,31 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: React Native Mobile Developer
+    university: BrightCoders Academy
+    time: 2022 May - current
     details: |
+      the technologies that I was taught were
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+        - React Native
+        - Redux
+
+  - degree: ingeniero en tecnologias de la informacion y comunicacion
+    university: Instituto Tecnológico de Tepic
+    time: 2014 - 2019
     details: |
-      Unsupervised deep learning for automatic behavior analysis
+      the technologies that I was taught were
 
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+        - Angular
+        - Node JS
+        - Firebase
+        - TypeScript
+        - JavaScript
+        - Ionic Framework
+        - Socket.io
+        - Git
+        - Node.js
+        - Amon other
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
