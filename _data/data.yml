@@ -61,7 +61,7 @@ sidebar:
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
-  summary: >
+  summary: |
     I am an ITC Engineer Full-Stack Developer looking for remote employment. 
     I have more than 4 years of experience in the development of web and mobile applications. 
     And participated in the entire life cycle of software development. 
