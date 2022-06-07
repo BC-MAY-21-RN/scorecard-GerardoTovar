@@ -96,7 +96,6 @@ educationcomplete:
         - Ionic Framework
         - Socket.io
         - Git
-        - Node.js
         - Amon other
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
@@ -109,9 +108,9 @@ experiences:
       about their needs and requirements in the application and then develop it. 
       I was in charge of the entire development cycle of the application.
 
-        - Espacios Seguros Para Mujeres It is an application developed in firebase, ionic - angular, google maps etc.
-        Its main function is to mark unsafe spaces in the city. and each user can comment on them
-        - It is an application like uber in which you can request a tow truck in case of an accident with your vehicle. 
+        - Espacios Seguros Para Mujeres: It is an application developed in firebase, ionic - angular, google maps etc.
+        Its main function is to mark unsafe spaces in the city. and each user can comment on them (https://esmujeres.app)
+        - ServiGruas: It is an application like uber in which you can request a tow truck in case of an accident with your vehicle. 
         just like uber you can see the driver and his route etc.
 
   - role: Full Stack Developer
@@ -141,23 +140,35 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
+    - name: Angular
+      level: 70%
 
-    - name: PyTorch
+    - name: Node JS
       level: 40%
 
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
+    - name: Firebase
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: TypeScript
+      level: 80%
 
-    - name: C/C++
-      level: 40%
+    - name: JavaScript
+      level: 80%
+
+    - name: Ionic Framework
+      level: 85%
+
+    - name: Socket.io
+      level: 20%
+
+    - name: Git
+      level: 55%
+
+    - name: HTML
+      level: 90%
+      
+    - name: CSS
+      level: 70%
 
 # NO MODIFICAR
 footer: >
