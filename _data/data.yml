@@ -84,22 +84,19 @@ educationcomplete:
         - ESLint and Prettier
         - Agile software development
 
-  - degree: Information and Communication Technology (ICT Engineering)
+  - degree: Information and Communication Technology (ICT Engineering) with the specialty in web development and multiplatform.
     university: Technological Institute of Tepic
     time: 2014 - 2019
     details: |
       the technologies that I was taught were
 
-        - Angular
-        - Node JS
-        - Firebase
-        - TypeScript
-        - JavaScript
-        - Ionic Framework
+        - Angular and Ionic Framework
+        - HTML, CSS, Node JS
+        - TypeScript and JavaScript
         - Socket.io
         - Git and GitHub
-        - MongoDB
-        - Amon other
+        - Firebase, MongoDB and SQL
+        - Visual Studio
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
