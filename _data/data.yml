@@ -80,9 +80,9 @@ educationcomplete:
       the technologies that I was taught were
 
         - React Native
-        - Redux
         - Jest
         - ESLint and Prettier
+        - Agile software development
 
   - degree: Information and Communication Technology (ICT Engineering)
     university: Technological Institute of Tepic
@@ -109,18 +109,25 @@ experiences:
     details: |
         - Development of web and mobile applications based on customer requirements.
         - Talk to the customer about their needs and requirements in the application.
-        - Espacios Seguros Para Mujeres: It is an application developed in firebase, ionic - angular, google maps etc.
-        Its main function is to mark unsafe spaces in the city. and each user can comment on them (https://esmujeres.app)
-        - ServiGruas: It is an application like uber in which you can request a tow truck in case of an accident with your vehicle. 
-        just like uber you can see the driver and his route etc.
+        - Functional demonstration with the client of the required requirements.
+        - Code documentation for future programmers.
+        - Firebase database maintenance.
+        - management of the complete development of the application "Espacios Seguros Para Mujeres" 
+        which is currently in the playstore, in it you could mark unsafe places 
+        in the city and other users could comment on it (https://esmujeres.app)
+        - management of the complete development of the "Servi Gruas" app like uber in 
+        which you can request a tow truck in case of an accident with your vehicle. just 
+        like uber you can see the driver and his route etc.
 
   - role: Full Stack Developer
     time: 2018 May - 2018 Dic
     company: The Coca-Cola Company
     details: |
-      My job at the company was to quickly fix bugs or add new features.
-      The application assigned to me was a desktop and mobile app, it managed all the internal inventory of Coca-Cola
-      
+        - Supervision and development of the mobile and desktop application of the internal inventory of coca cola
+        - Fast bug fixes at any time.
+        - Add features to the app
+        - Test the application in different scenarios to find human errors and correct them
+
 # Registra aquí los proyectos en los que has participado
 projects:
     title: Projects
