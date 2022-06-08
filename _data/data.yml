@@ -107,10 +107,8 @@ experiences:
     time: 2018 - 2021
     company: ITTepic CIDETI (Information Technology Research and Development Center)
     details: |
-      I was the development leader in two applications, my job was to talk with the client 
-      about their needs and requirements in the application and then develop it. 
-      I was in charge of the entire development cycle of the application.
-
+        - Development of web and mobile applications based on customer requirements.
+        - Talk to the customer about their needs and requirements in the application.
         - Espacios Seguros Para Mujeres: It is an application developed in firebase, ionic - angular, google maps etc.
         Its main function is to mark unsafe spaces in the city. and each user can comment on them (https://esmujeres.app)
         - ServiGruas: It is an application like uber in which you can request a tow truck in case of an accident with your vehicle. 
