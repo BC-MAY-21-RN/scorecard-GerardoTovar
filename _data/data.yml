@@ -12,7 +12,7 @@ sidebar:
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: l_Z0K117_l@hotmail.com
+  email: gerardotovarbarragan@gmail.com
   phone: 3111509635
   website: # No agregar http://
   linkedin: GerardoTovar
@@ -162,10 +162,10 @@ skills:
       level: 85%
       
     - name: React Native
-      level: 40%
+      level: 60%
 
     - name: Git and GitHub
-      level: 60%
+      level: 70%
 
     - name: HTML
       level: 90%
