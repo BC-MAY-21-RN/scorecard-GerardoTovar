@@ -27,7 +27,7 @@ sidebar:
   # Actualiza según los idiomas y niveles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Proficient # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Competent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -63,7 +63,7 @@ career-profile:
   title: About Me # NO MODIFICAR
   summary: |
     ITC Engineer Full-Stack Developer looking for remote employment. 
-    I have 4+ years of experience in web and mobile applications development. 
+    I have 5+ years of experience developing web and mobile applications using angular, ionic-angular and react native. 
     And participated in the entire life cycle of software development.
     I have the soft and hard skills to work alone or in a team.
     I spend all day at home exercising and studying online courses.
@@ -91,7 +91,8 @@ educationcomplete:
     details: |
       the technologies that I was taught were
 
-        - Angular and Ionic Framework
+        - Angular Versión 4, 8, 12 and 13
+        - Ionic Framework Version 2 and above
         - HTML, CSS, Node JS
         - TypeScript and JavaScript
         - Socket.io
